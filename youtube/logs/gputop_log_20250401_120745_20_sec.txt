@@ -1,0 +1,50 @@
+[H[J[7mDRM minor 0                                                                     
+   PID      MEM      RSS   rcs    vcs   vecs    bcs    ccs   NAME               [0m
+  7505     136M     136M |  7.8% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | Xorg               
+  7833     220M     220M |  3.8% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-shell        
+  7867       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | mutter-x11-fram    
+  8440       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | xdg-desktop-por    
+133532       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-calendar     
+371413      39M      39M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | nautilus           
+
+[H[J[7mDRM minor 0                                                                     
+   PID      MEM      RSS   rcs    vcs   vecs    bcs    ccs   NAME               [0m
+  7505     151M     151M |  5.4% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | Xorg               
+  7833     228M     228M |  2.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-shell        
+  7867       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | mutter-x11-fram    
+  8440       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | xdg-desktop-por    
+133532       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-calendar     
+371413      39M      39M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | nautilus           
+
+[H[J[7mDRM minor 0                                                                     
+   PID      MEM      RSS   rcs    vcs   vecs    bcs    ccs   NAME               [0m
+  7505     157M     157M |  7.7% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | Xorg               
+  7833     228M     228M |  4.1% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-shell        
+  7867       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | mutter-x11-fram    
+  8440       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | xdg-desktop-por    
+133532       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-calendar     
+371413      39M      39M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | nautilus           
+527630     111M     111M |  9.7% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | chrome             
+527630       0B       0B |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | chrome             
+[7mDRM minor 128                                                                   
+   PID      MEM      RSS   rcs    vcs   vecs    bcs    ccs   NAME               [0m
+527630       0B       0B |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | chrome             
+
+[H[J[7mDRM minor 0                                                                     
+   PID      MEM      RSS   rcs    vcs   vecs    bcs    ccs   NAME               [0m
+  7505     157M     157M |  5.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | Xorg               
+  7833     228M     228M |  2.5% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-shell        
+  7867       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | mutter-x11-fram    
+  8440       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | xdg-desktop-por    
+133532       2M       2M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | gnome-calendar     
+371413      39M      39M |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | nautilus           
+527630     104M     104M |  5.3% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | chrome             
+527630       0B       0B |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | chrome             
+[7mDRM minor 128                                                                   
+   PID      MEM      RSS   rcs    vcs   vecs    bcs    ccs   NAME               [0m
+527630       0B       0B |  0.0% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | chrome             
+
+[H[J[7mDRM minor 0                                                                     
+   PID      MEM      RSS   rcs    vcs   vecs    bcs    ccs   NAME               [0m
+  7505     157M     157M |  4.7% ||  0.0% ||  0.0% ||  0.0% ||  0.0% | Xorg               
+  7833     228M     228M |  2.5% ||  0.0% ||  0.0% 
